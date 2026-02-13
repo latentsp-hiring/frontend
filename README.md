@@ -20,6 +20,10 @@ Open [http://localhost:3000](http://localhost:3000). You should see a page with 
 
 Two test PDFs are provided in `public/pdfs/`. You can switch between them to test single-page and multi-page documents.
 
+## Reference
+
+See [Frontend task.mp4](./Frontend%20task.mp4) for a demo of the expected result.
+
 ## Assignment
 
 The file you'll be working in is `components/pdf-viewer.tsx`. It currently renders a PDF but has no controls and no state management. The `react-pdf` setup (worker config, `Document`/`Page` components, CSS imports) is done for you.
