@@ -28,7 +28,7 @@ Build an interactive, responsive PDF viewer. When complete, the viewer should sa
 
 ### Toolbar
 
-- [ ] Floating toolbar above the PDF, only visible after the document loads
+- [ ] **Floating toolbar** above the PDF, only visible after the document loads
 - [ ] **Zoom out** — decreases scale by 0.25, minimum 1x (100%)
 - [ ] **Zoom level** — displays current zoom as percentage (e.g. "125%")
 - [ ] **Zoom in** — increases scale by 0.25, maximum 3x (300%)
@@ -36,8 +36,8 @@ Build an interactive, responsive PDF viewer. When complete, the viewer should sa
 - [ ] **Rotate right** — rotates 90° clockwise
 - [ ] **Page navigation** — previous/next buttons with "page / total" display
 - [ ] **Open page** - Open pdf as a new tab so the user can use built-in pdf viewer of the browser
-- [ ] Page navigation only shown when the document has multiple pages
-- [ ] Buttons are disabled at their limits (min zoom, max zoom, first page, last page)
+- [ ] **Page navigation** only shown when the document has multiple pages
+- [ ] **Buttons are disabled** at their limits (min zoom, max zoom, first page, last page)
 
 ### Responsive Layout
 
