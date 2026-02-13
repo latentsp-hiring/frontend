@@ -22,7 +22,7 @@ Two test PDFs are provided in `public/pdfs/`. You can switch between them to tes
 
 ## Reference
 
-See [Frontend task.mp4](./Frontend%20task.mp4) for a demo of the expected result.
+https://github.com/user-attachments/assets/daa5eb9b-13a5-43fb-a4a3-709e095b8859
 
 ## Assignment
 
